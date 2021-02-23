@@ -3504,11 +3504,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "sn1_0222",
-      "projectName": "sn1_0222",
-      "projectPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn1_0222\\.local",
+      "projectUniqueName": "sn3_0222",
+      "projectName": "sn3_0222",
+      "projectPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn3_0222\\.local",
       "packagesPath": "C:\\Users\\우경환\\.nuget\\packages\\",
-      "outputPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn1_0222\\.local"
+      "outputPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn3_0222\\.local"
     },
     "frameworks": {
       "net461": {
