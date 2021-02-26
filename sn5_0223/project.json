@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "HtmlAgilityPack": "[1.11.30]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.3]",
