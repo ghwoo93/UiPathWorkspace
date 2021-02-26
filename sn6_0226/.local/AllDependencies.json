@@ -1284,7 +1284,7 @@
           "lib/net461/TelemetryClient.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities/20.10.8": {
+      "UiPath.UIAutomation.Activities/20.10.9": {
         "type": "package",
         "dependencies": {
           "AvalonEdit": "5.0.3",
@@ -3224,13 +3224,15 @@
         "uipath.telemetry.client.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities/20.10.8": {
-      "sha512": "hHSNEZrikiFIzhKqn3ynDDCTFziWXdvCng0CJ93YfOhitca901NPRmdGzYqhsRsS71IaOORQ0VJdg6NiZftQqQ==",
+    "UiPath.UIAutomation.Activities/20.10.9": {
+      "sha512": "fDTAZ3mOlarFOp4y/vmyJXJwNxo0VT0dVILsE28fM5j0jYkoBO5etgytiN5fB+0TlBFNnWQoZ7IIxjcy2zibYA==",
       "type": "package",
-      "path": "uipath.uiautomation.activities/20.10.8",
+      "path": "uipath.uiautomation.activities/20.10.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "AllDependencies.json",
+        "UiAutomationActivities.nuget.props",
         "build/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
         "build/ActiproSoftware.Docking.Wpf.dll",
         "build/ActiproSoftware.Editors.Wpf.dll",
@@ -3418,7 +3420,8 @@
         "lib/net461/zh-cn/UiPath.UIAutomationNext.resources.dll",
         "lib/net461/zh-cn/UiPath.UiAutomation.Activities.resources.dll",
         "lib/net461/zh-cn/UiPath.Wizards.resources.dll",
-        "uipath.uiautomation.activities.20.10.8.nupkg.sha512",
+        "nuget.cache",
+        "uipath.uiautomation.activities.20.10.9.nupkg.sha512",
         "uipath.uiautomation.activities.nuspec"
       ]
     },
@@ -3496,7 +3499,7 @@
       "UiPath.Excel.Activities >= 2.9.5 <= 2.9.5",
       "UiPath.Mail.Activities >= 1.9.5 <= 1.9.5",
       "UiPath.System.Activities >= 20.10.3 <= 20.10.3",
-      "UiPath.UIAutomation.Activities >= 20.10.8 <= 20.10.8"
+      "UiPath.UIAutomation.Activities >= 20.10.9 <= 20.10.9"
     ]
   },
   "packageFolders": {
@@ -3504,11 +3507,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "sn2",
-      "projectName": "sn2",
-      "projectPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn2\\.local",
+      "projectUniqueName": "sn6_0226",
+      "projectName": "sn6_0226",
+      "projectPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn6_0226\\.local",
       "packagesPath": "C:\\Users\\우경환\\.nuget\\packages\\",
-      "outputPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn2\\.local"
+      "outputPath": "C:\\WGH\\UiPath\\UiPathWorkspace\\sn6_0226\\.local"
     },
     "frameworks": {
       "net461": {
@@ -3531,7 +3534,7 @@
           "UiPath.UIAutomation.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[20.10.8, 20.10.8]"
+            "version": "[20.10.9, 20.10.9]"
           }
         }
       }
